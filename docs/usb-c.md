@@ -111,7 +111,7 @@ Modes in the EC codebase.
       primarily uses VDMs to discover support for alternate modes and enter
       them.
 
-## Different PD stacks
+## Different PD stacks 👁️
 
 Right now platform/ec has two different implementations of USB-C PD stack.
 
